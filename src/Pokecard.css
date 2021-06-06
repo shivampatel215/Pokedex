@@ -1,0 +1,27 @@
+.Pokecard {
+    border: 2px solid mediumpurple;
+    width: 200px;
+    height: 200px;
+    padding: 5px;
+    margin: 1rem;
+    box-shadow: 1px -1px 9px -5px;
+    text-align: center;
+    background-color: rgba(40, 45, 63);
+    border-radius: 7px;
+}
+.Pokecard h2 {
+    margin-bottom: 0;
+    font-family: fantasy;
+    
+}
+.Pokecard-type {
+    font-weight: bold;
+    font-family: fantasy;
+    padding-bottom: 1px;
+
+
+}
+.Pokecard-exp {
+    font-weight: bold;
+    font-family: fantasy;
+}

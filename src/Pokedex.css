@@ -1,0 +1,43 @@
+.Pokedex-cards {
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+.pokedex-title {
+    font-family: fantasy;
+    margin-left: 400px;
+    /* margin-left: 300px; */
+    
+}
+.pokedex-score {
+    font-family: fantasy;
+}
+.button-play {
+    cursor: pointer;
+    font-family: fantasy;
+    color: white;
+    transition-duration: .4s;
+    background-color: rgba(40, 45, 63);
+    border-radius: 5px;
+    /* height: 15px; */
+    justify-content: center;
+
+
+}
+.nav-bar {
+    display: flex;
+    justify-content: space-around;
+}
+.button-play:hover {
+    color: white;
+    background-color: mediumpurple;
+
+}
+
+/* .pokedex-button {
+    cursor: pointer;
+    transition-duration: .4s;
+}
+.pokedex-button:hover {
+    background-color: mediumpurple;
+} */
